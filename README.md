@@ -8,4 +8,4 @@ We're remaking the classic 1993 Amiga game "The Chaos Engine" with a 3D twist
 **Jason** - Enemy Design & Technical Artist
 **James** - Player Character Design & Environment
 
-**Expected scope completion date:** 20/01/25
+**Expected scope completion date:** 20/01/2025
